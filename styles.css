@@ -95,3 +95,13 @@ text-align: center; /* Alinea el contenido al centro del encabezado */
 /* Espacio de relleno interno para el contenido */
 
 }
+
+ul{
+    color: white;
+    font-size: 22px;
+    margin-left: 30px;
+}
+
+li{
+    margin-bottom: 10px;
+}
