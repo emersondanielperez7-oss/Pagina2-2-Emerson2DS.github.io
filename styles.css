@@ -8,7 +8,7 @@ background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
 background-position: center; /* Centra la imagen en el encabezado */
 height: 35rem; /* Altura del encabezado (ajusta según tus necesidades) */
 
-color: #ffffff; /* Color del texto en el encabezado para asegurar la legibilidad */
+color: #291d1d; /* Color del texto en el encabezado para asegurar la legibilidad */
 text-orientation: upright;
 text-align: center; /* Alinea el contenido al centro del encabezado */
 padding: 20px; /* Espacio de relleno interno para el contenido */
@@ -18,7 +18,7 @@ padding: 20px; /* Espacio de relleno interno para el contenido */
 /* Estilos adicionales para el Título en el encabezado */
 #mi-encabezado h1 {
 font-size: 45px; /* Tamaño de fuente del título */
-font-family: Arial, Helvetica, sans-serif;
+font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
 }
 
 /* Estilos adicionales para el texto en el encabezado */
