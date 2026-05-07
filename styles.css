@@ -2,7 +2,7 @@
 
 /* Establece una imagen de fondo para el encabezado */
 #mi-encabezado {
-background-image: url('img/fondobd.png'); /* Reemplaza 'ruta-de-tu-imagen.jpg'
+background-image: url('img/fondoLS.png'); /* Reemplaza 'ruta-de-tu-imagen.jpg'
 con la ubicación de tu imagen */
 background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
 background-position: center; /* Centra la imagen en el encabezado */
@@ -72,7 +72,7 @@ body {
 
     background:
     linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.75)),
-    url("img/fondo.gif");
+    url("img/fondobd.png");
 
     background-size: cover;
     background-position: center;
