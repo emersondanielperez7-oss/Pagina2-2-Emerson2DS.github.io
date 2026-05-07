@@ -30,7 +30,7 @@ font-size: 25px; /* Tamaño de fuente del texto del encabezado */
 
 /* Establece el fondo transparente para el menú */
 nav {
-background-color: rgb(0, 255, 200);
+background-color: rgb(0, 217, 255);
 padding: 20px;
 position: fixed; /* Posiciona el menú en la parte superior de la página */
 top: 0;
@@ -56,13 +56,13 @@ margin-right: 30px; /* Espacio entre elementos del menú */
 
 a {
 text-decoration: none;
-color: #fffdfd; /* Color del texto del menú */
+color: #00ffd5; /* Color del texto del menú */
 font-weight: bold;
 }
 
 /* Cambia el color del enlace cuando se pasa el mouse por encima */
 a:hover {
-color: #ff9900; /* Cambia el color al pasar el mouse por encima */
+color: #005fb8; /* Cambia el color al pasar el mouse por encima */
 }
 
 /*CONFIGURACION DEL BODY*/
