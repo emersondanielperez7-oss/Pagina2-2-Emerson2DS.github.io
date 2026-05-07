@@ -23,7 +23,7 @@ font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
 
 /* Estilos adicionales para el texto en el encabezado */
 #mi-encabezado p {
-font-size: 25px; /* Tamaño de fuente del texto del encabezado */
+font-size: 35px; /* Tamaño de fuente del texto del encabezado */
 }
 
 /*CONFIGURACION DEL MENU*/
@@ -97,7 +97,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .footer {
-background-color: rgb(93, 0, 155); /* Cambia el color de fondo a azul */
+background-color: rgb(83, 2, 138); /* Cambia el color de fondo a azul */
 padding: 5rem;
 color: #fffdfd;
 color: #ffffff; /* Color del texto en el encabezado para asegurar la legibilidad */
