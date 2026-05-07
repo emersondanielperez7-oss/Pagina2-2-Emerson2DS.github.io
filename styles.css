@@ -2,7 +2,7 @@
 
 /* Establece una imagen de fondo para el encabezado */
 #mi-encabezado {
-background-image: url('img/fondodf.png'); /* Reemplaza 'ruta-de-tu-imagen.jpg'
+background-image: url('img/fondobd.png'); /* Reemplaza 'ruta-de-tu-imagen.jpg'
 con la ubicación de tu imagen */
 background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
 background-position: center; /* Centra la imagen en el encabezado */
@@ -67,12 +67,22 @@ color: #64af9f; /* Cambia el color al pasar el mouse por encima */
 
 /*CONFIGURACION DEL BODY*/
 body {
-/*configura los margenes de la página*/
-margin-top: 0px; /* Ajusta según la altura del menú */
-margin-left: 0px;
-margin-right: 0px;
-font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+
+    background:
+    linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.75)),
+    url("img/fondo.gif");
+
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    color: white;
+
+    overflow-x: hidden;
 }
+
 
 /*CONFIGURACION DEL CONTENIDO*/
 .contenido {
