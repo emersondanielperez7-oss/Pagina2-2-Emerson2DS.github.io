@@ -56,13 +56,13 @@ margin-right: 30px; /* Espacio entre elementos del menú */
 
 a {
 text-decoration: none;
-color: #d08aff; /* Color del texto del menú */
+color: #efa1ff; /* Color del texto del menú */
 font-weight: bold;
 }
 
 /* Cambia el color del enlace cuando se pasa el mouse por encima */
 a:hover {
-color: #643186; /* Cambia el color al pasar el mouse por encima */
+color: #7d23a0; /* Cambia el color al pasar el mouse por encima */
 }
 
 /*CONFIGURACION DEL BODY*/
@@ -97,7 +97,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .footer {
-background-color: rgb(90, 32, 129); /* Cambia el color de fondo a morado */
+background-color: rgb(75, 2, 94); /* Cambia el color de fondo a morado */
 padding: 5rem;
 color: #fffdfd;
 color: #ffffff; /* Color del texto en el encabezado para asegurar la legibilidad */
