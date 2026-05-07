@@ -41,16 +41,17 @@ fondo */
 
 }
 
-/* Lista SOLO del menú */
-nav ul {
-   list-style-type: none;
-   text-align: right;
-   margin-right: 3rem;
+/* Estilos para los elementos menu*/
+ul {
+list-style-type: none;
+text-align: right;
+margin-right: 3rem;
 }
 
-nav li {
-   display: inline;
-   margin-right: 30px;
+/*elementos de la lista del menu*/
+li {
+display: inline;
+margin-right: 30px; /* Espacio entre elementos del menú */
 }
 
 a {
@@ -93,17 +94,4 @@ color: #ffffff; /* Color del texto en el encabezado para asegurar la legibilidad
 text-align: center; /* Alinea el contenido al centro del encabezado */
 /* Espacio de relleno interno para el contenido */
 
-}
-
-.contenido ul {
-   list-style-type: disc;
-   color: #000000;
-   font-size: 20px;
-   margin-left: 40px;
-   padding-left: 20px;
-}
-
-.contenido li {
-   display: list-item;
-   margin-bottom: 10px;
 }
