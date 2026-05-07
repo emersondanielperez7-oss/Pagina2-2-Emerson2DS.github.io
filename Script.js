@@ -8,8 +8,8 @@ const headerHeight = header.offsetHeight;
 // Función que cambia el color de fondo del menú cuando se desplaza
 window.addEventListener("scroll", () => {
 if (window.scrollY > headerHeight) {
-menu.style.backgroundColor = "rgb(106, 0, 133)"; // Cambia el color de fondo a
-azul
+menu.style.backgroundColor = "rgb(103, 34, 121)"; // Cambia el color de fondo a morado
+
 } else {
 menu.style.backgroundColor = "rgba(0, 0, 0, 0)"; // Vuelve al fondo
 transparente
