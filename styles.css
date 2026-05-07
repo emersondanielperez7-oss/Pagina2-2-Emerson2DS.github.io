@@ -41,17 +41,16 @@ fondo */
 
 }
 
-/* Estilos para los elementos menu*/
-ul {
-list-style-type: none;
-text-align: right;
-margin-right: 3rem;
+/* Lista SOLO del menú */
+nav ul {
+   list-style-type: none;
+   text-align: right;
+   margin-right: 3rem;
 }
 
-/*elementos de la lista del menu*/
-li {
-display: inline;
-margin-right: 30px; /* Espacio entre elementos del menú */
+nav li {
+   display: inline;
+   margin-right: 30px;
 }
 
 a {
@@ -96,16 +95,15 @@ text-align: center; /* Alinea el contenido al centro del encabezado */
 
 }
 
-ul{
-    display: block;
-    list-style-type: disc;
-    color: white;
-    font-size: 20px;
-    margin-left: 40px;
-    padding-left: 20px;
+.contenido ul {
+   list-style-type: disc;
+   color: #000000;
+   font-size: 20px;
+   margin-left: 40px;
+   padding-left: 20px;
 }
 
-li{
-    display: list-item;
-    margin-bottom: 10px;
+.contenido li {
+   display: list-item;
+   margin-bottom: 10px;
 }
