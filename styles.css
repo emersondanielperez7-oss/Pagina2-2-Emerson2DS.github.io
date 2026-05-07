@@ -56,13 +56,13 @@ margin-right: 30px; /* Espacio entre elementos del menú */
 
 a {
 text-decoration: none;
-color: #a44cdf; /* Color del texto del menú */
+color: #c368ff; /* Color del texto del menú */
 font-weight: bold;
 }
 
 /* Cambia el color del enlace cuando se pasa el mouse por encima */
 a:hover {
-color: #7637a0; /* Cambia el color al pasar el mouse por encima */
+color: #75389e; /* Cambia el color al pasar el mouse por encima */
 }
 
 /*CONFIGURACION DEL BODY*/
