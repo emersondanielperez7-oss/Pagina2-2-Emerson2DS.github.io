@@ -98,7 +98,7 @@ font-family: Arial, Helvetica, sans-serif;
 
 .footer {
 background-color: rgb(75, 2, 94); /* Cambia el color de fondo a morado */
-padding: 5rem;
+padding: 3rem;
 color: #fffdfd;
 color: #ffffff; /* Color del texto en el encabezado para asegurar la legibilidad */
 text-align: center; /* Alinea el contenido al centro del encabezado */
